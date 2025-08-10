@@ -1,0 +1,20 @@
+# Maven / Java
+target/
+*.log
+*.class
+*.jar
+*.war
+
+# IntelliJ
+.idea/
+*.iml
+out/
+*.ipr
+*.iws
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Others
+/.vscode/
